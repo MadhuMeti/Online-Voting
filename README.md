@@ -1,2 +1,3 @@
 # Online-Voting
-eVoting is an online voting web application created using wamp server.
+eVoting is a web application created using wamp server.
+It uses a MySQL database.
